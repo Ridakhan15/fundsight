@@ -21,7 +21,7 @@ Follow these simple steps to get FundSight up and running on your local machine.
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FundSight.git
+git clone https://github.com/Ridakhan15/FundSight.git
 cd FundSight
 ```
 
@@ -71,3 +71,4 @@ Once the server starts, open the link shown in your terminal (usually `http://lo
     conda install -c conda-forge prophet
     ```
   * **Security**: Remember not to commit sensitive files, such as `.env` or API keys, to your repository.
+
