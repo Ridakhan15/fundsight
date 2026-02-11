@@ -1,0 +1,12 @@
+streamlit
+pandas
+requests
+prophet
+matplotlib
+
+
+Notes:
+
+1)prophet is the modern package name that installs via pip; if you run into build/toolchain errors you may need system C++ compilers or use conda. If that happens I can show alternatives.
+
+2)If you use Flask instead of Streamlit, add Flask.
